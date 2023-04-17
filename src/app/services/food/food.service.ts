@@ -105,7 +105,7 @@ return [
         favorite: true,
         origins: ['italy'],
         stars: 4.7,
-        imageUrl: '/assets/images/food5.jpg',
+        imageUrl: '/assets/images/food6.png',
         tags: ['SlowFood', 'Pasta', 'Lunch'],
       },
 
